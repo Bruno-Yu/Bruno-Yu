@@ -1,9 +1,9 @@
 ### Hi 👋 I am Bruno Yu 
 ###### `前端工程師` `Front-end Developer`
 
-嗨! 我是余俊毅，曾是PM現在是名前端工程師，目前較常用Vue, Bootstrap5進行開發。
+嗨，我是余俊毅，是位前端開發者!
 
-[My Web](https://bruno-yu.github.io/resume/) / [Linkdin](https://www.linkedin.com/in/bruno-yu) / [E-mail](jackhellowin@gmail.com)
+[My Web](https://bruno-yu.github.io/resume_renew/) / [Linkdin](https://www.linkedin.com/in/bruno-yu-357415253) / [E-mail](jackhellowin@gmail.com)
 
 
 <!--
