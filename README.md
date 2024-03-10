@@ -2,6 +2,7 @@
 ###### `前端工程師` `Front-end Developer`
 
 嗨，我是余俊毅，一位對於前端開發充滿熱情的人。我擁有豐富的行銷專案管理和國際業務拓展經驗，並專注於持續學習和探索新技術。我致力於在數位世界中創造卓越的產品，並與有志之士攜手合作。如果您對於我在前端開發領域的工作感興趣，歡迎聯繫我！
+
 Hi, I'm Bruno Yu, a passionate individual with a focus on front-end development. With extensive experience in marketing project management and international business expansion, I am committed to continuous learning and exploring new technologies. I strive to create outstanding products in the digital world and collaborate with like-minded individuals. If you're interested in my work in front-end development, feel free to reach out to me!
 
 [Resume](https://bruno-yu.github.io/resume_renew/) / [Blog](https://bruno-yu.github.io/bruno_blog/) / [Linkdin](https://www.linkedin.com/in/bruno-yu-357415253) / [E-mail](jackhellowin@gmail.com)
