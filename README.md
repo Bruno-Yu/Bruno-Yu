@@ -49,7 +49,7 @@ A reusable Nuxt starter with **TypeScript, Tailwind, Pinia, i18n, and an image-c
 A Vue starter that integrates **Vite, TypeScript, Pinia, linting, commit conventions, and SVG tooling** — showing attention to maintainability and team workflow.
 
 ### [Bruno Blog](https://github.com/Bruno-Yu/bruno_blog)
-A technical notes site built with **Astro, TypeScript, Tailwind, and Tina CMS** — showing continuous learning and knowledge organization.
+A technical notes site built with **Docusaurus 3, React, TypeScript, and local search** — showing continuous learning and knowledge organization.
 
 ---
 
@@ -69,7 +69,7 @@ A technical notes site built with **Astro, TypeScript, Tailwind, and Tina CMS** 
 
 [Portfolio](https://portfolio.jackhellowin.win/) ·
 [LinkedIn](https://www.linkedin.com/in/bruno-yu-357415253) ·
-[Blog](https://bruno-yu.github.io/bruno_blog/) ·
+[Blog](https://blog.jackhellowin.win/) ·
 [Email](mailto:jackhellowin@gmail.com)
 
 ---
